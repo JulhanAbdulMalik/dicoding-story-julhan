@@ -1,3 +1,3 @@
-APP_URL=https://julhanabdulmalik.github.io/dicoding-story-julhan/
+APP_URL=https://dicoding-story-julhan.netlify.app/
 MAP_SERVICE_API_KEY=<api_key>
 MAP_SERVICE: Leaflet (OpenStreetMap, no API key needed)
